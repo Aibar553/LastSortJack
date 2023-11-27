@@ -1,0 +1,15 @@
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\bin\Debug\net6.0\ThreadAndBuffer.exe
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\bin\Debug\net6.0\ThreadAndBuffer.deps.json
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\bin\Debug\net6.0\ThreadAndBuffer.runtimeconfig.json
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\bin\Debug\net6.0\ThreadAndBuffer.dll
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\bin\Debug\net6.0\ThreadAndBuffer.pdb
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\ThreadAndBuffer.csproj.AssemblyReference.cache
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\ThreadAndBuffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\ThreadAndBuffer.AssemblyInfoInputs.cache
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\ThreadAndBuffer.AssemblyInfo.cs
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\ThreadAndBuffer.csproj.CoreCompileInputs.cache
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\ThreadAndBuffer.dll
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\refint\ThreadAndBuffer.dll
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\ThreadAndBuffer.pdb
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\ThreadAndBuffer.genruntimeconfig.cache
+C:\Users\Aibar Arysbai\source\repos\ThreadAndBuffer\ThreadAndBuffer\obj\Debug\net6.0\ref\ThreadAndBuffer.dll
